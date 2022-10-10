@@ -10,6 +10,16 @@ import kotlinx.coroutines.*
 import kotlin.coroutines.CoroutineContext
 
 
+
+// Github: https://github.com/Professor-Leal/CoroutinesProject
+
+// Youtube:
+// PlayList: Coroutines - Kotlin:                  https://www.youtube.com/playlist?list=PL5MykfKwtHeEx-Yr20aBIwKUj_ZmXDV8a
+// Coroutines 01 - Introdução:                     https://youtu.be/O9GUBLB63W8
+// Coroutines 02 - Contextos e funções complexas:  https://youtu.be/BmB-ISHhkb4
+// Coroutines 03 - Escopos e construtores:         https://youtu.be/30F8j4efBHA
+// Coroutines 04 - Jobs e cancelamento:            https://youtu.be/LrrXDVUG3f8
+
 class MainActivity : AppCompatActivity() {
 
     ////////////////////////////////////////////////////////////////////////////////////////////////
